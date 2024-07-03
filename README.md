@@ -1,2 +1,5 @@
 # FreeReal
-Pre-training methods for scene text detectors;ECCV2024
+
+The official implementation of paper: "Bridging Synthetic and Real Worlds for Pre-training Scene Text Detectors".
+
+Coming soon!
