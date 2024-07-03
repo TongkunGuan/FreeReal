@@ -4,4 +4,4 @@
 
 The official implementation of paper: "Bridging Synthetic and Real Worlds for Pre-training Scene Text Detectors".
 
-Coming soon!
+Code will be released soon.
